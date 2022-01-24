@@ -1,6 +1,6 @@
 # CoinNFT\
 
-<img src="images/coin.png"/>
+<img src="images/photo_2022-01-23 19.59.44.jpeg"/>
 
 CoinNFT digitalises the certification of Numismatic coins through the creation of numismatic coin NFTs. 
 This code has been sourced from the following repositories: \
