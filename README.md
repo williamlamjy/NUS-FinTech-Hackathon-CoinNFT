@@ -1,4 +1,4 @@
-# CoinNFT \
+# CoinNFT
 
 <img src="images/photo_2022-01-23 19.59.44.jpeg"/>
 
